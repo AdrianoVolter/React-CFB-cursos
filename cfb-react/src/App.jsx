@@ -1,17 +1,14 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 
-function App() {
+function App(){
 
-  return(
+  return (
 
-    <>
-      <h1>CFB Cursos</h1>
-
-
-    </>
+    <h1>Ola</h1>
   )
-  
+
+
 }
   
 export default App
